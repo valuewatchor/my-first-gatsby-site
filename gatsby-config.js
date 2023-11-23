@@ -2,6 +2,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  // pathPrefix: `/blog`,
   siteMetadata: {
     title: `My First Gatsby TEST Site`,
     siteUrl: `https://www.yourdomain.tld`,
@@ -16,5 +17,6 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
+    "gatsby-plugin-mdx",
   ],
 };
