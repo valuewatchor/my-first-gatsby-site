@@ -15,12 +15,20 @@
   },
   "dependencies": {
     "@mdx-js/react": "^2.3.0",
+    "core-js": "^3.33.3",
     "gatsby": "^5.12.4",
     "gatsby-plugin-image": "^3.12.3",
+    "gatsby-plugin-manifest": "^5.12.3",
     "gatsby-plugin-mdx": "^5.12.3",
+    "gatsby-plugin-offline": "^6.12.3",
     "gatsby-plugin-sharp": "^5.12.3",
     "gatsby-source-filesystem": "^5.12.1",
+    "gatsby-transformer-yaml": "^5.12.0",
+    "json-bigint-patch": "^0.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.20.0"
   }
 }
