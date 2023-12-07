@@ -4,8 +4,8 @@
 module.exports = {
   // pathPrefix: `/blog`,
   siteMetadata: {
-    title: `My First Gatsby TEST Site`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `台灣股市投資策略智能回測`,
+    siteUrl: process.env.SITE_URL,
   },
   plugins: [
     // PWA
@@ -40,7 +40,7 @@ module.exports = {
         //   }
         // ],
         cache_busting_mode: 'none',
-        start_url: `/pwa/`,
+        start_url: `/`,
         background_color: `#FBCD08`,
         // theme_color: `#a2466c`,
         theme_color_in_head: false, // This will avoid adding theme-color meta tag.
