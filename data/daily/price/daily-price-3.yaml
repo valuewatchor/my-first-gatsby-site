@@ -1,1443 +1,1443 @@
 - stockId: '8482'
   StockName: 商億-KY
-  TradeVolume: 4000
-  Transaction: 3
-  TradeValue: 268200
-  Open: 66.8
-  Max: 67.8
-  Min: 66.8
-  Close: 67.8
-  Change: 0.7
-  LastBuy: 66.8
-  LastBuyVolume: 2
-  LastSell: 68.8
+  TradeVolume: 17000
+  Transaction: 14
+  TradeValue: 1140700
+  Open: 67.4
+  Max: 67.4
+  Min: 67.0
+  Close: 67.0
+  Change: -0.8
+  LastBuy: 66.9
+  LastBuyVolume: 4
+  LastSell: 67.0
   LastSellVolume: 3
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8488'
   StockName: 吉源-KY
-  TradeVolume: 44162
-  Transaction: 34
-  TradeValue: 803904
-  Open: 18.6
-  Max: 18.6
-  Min: 17.8
-  Close: 18.25
-  Change: -0.35
-  LastBuy: 17.95
+  TradeVolume: 9187
+  Transaction: 18
+  TradeValue: 166832
+  Open: 18.25
+  Max: 18.25
+  Min: 18.1
+  Close: 18.1
+  Change: -0.15
+  LastBuy: 18.05
   LastBuyVolume: 2
-  LastSell: 18.25
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  LastSell: 18.1
+  LastSellVolume: 2
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8489'
   StockName: 三貝德
-  TradeVolume: 46131
-  Transaction: 65
-  TradeValue: 1124006
+  TradeVolume: 9926
+  Transaction: 27
+  TradeValue: 243158
   Open: 24.55
-  Max: 24.75
-  Min: 24.15
-  Close: 24.65
-  Change: 0.0
-  LastBuy: 24.4
-  LastBuyVolume: 1
+  Max: 24.6
+  Min: 24.5
+  Close: 24.5
+  Change: -0.15
+  LastBuy: 24.35
+  LastBuyVolume: 3
   LastSell: 24.5
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8499'
   StockName: 鼎炫-KY
-  TradeVolume: 16299
-  Transaction: 18
-  TradeValue: 2017814
+  TradeVolume: 25443
+  Transaction: 17
+  TradeValue: 3145932
   Open: 124.0
   Max: 124.0
-  Min: 123.5
+  Min: 123.0
   Close: 124.0
   Change: 0.0
-  LastBuy: 123.5
-  LastBuyVolume: 3
-  LastSell: 124.0
-  LastSellVolume: 8
-  DateStr: '2023-12-07'
+  LastBuy: 123.0
+  LastBuyVolume: 6
+  LastSell: 123.5
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8905'
   StockName: 裕國
-  TradeVolume: 128004
-  Transaction: 57
-  TradeValue: 3876520
-  Open: 30.35
-  Max: 30.4
-  Min: 30.05
-  Close: 30.3
+  TradeVolume: 32003
+  Transaction: 23
+  TradeValue: 966990
+  Open: 30.2
+  Max: 30.25
+  Min: 30.15
+  Close: 30.2
   Change: -0.1
   LastBuy: 30.2
-  LastBuyVolume: 6
-  LastSell: 30.3
-  LastSellVolume: 4
-  DateStr: '2023-12-07'
+  LastBuyVolume: 3
+  LastSell: 30.25
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8906'
   StockName: 花王
-  TradeVolume: 188000
-  Transaction: 53
-  TradeValue: 3097550
-  Open: 16.8
-  Max: 16.8
-  Min: 16.35
-  Close: 16.35
-  Change: -0.45
-  LastBuy: 16.35
-  LastBuyVolume: 13
-  LastSell: 16.4
+  TradeVolume: 113105
+  Transaction: 59
+  TradeValue: 1909363
+  Open: 16.75
+  Max: 17.35
+  Min: 16.5
+  Close: 16.55
+  Change: 0.2
+  LastBuy: 16.55
+  LastBuyVolume: 6
+  LastSell: 16.65
   LastSellVolume: 1
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8908'
   StockName: 欣雄
-  TradeVolume: 57796
-  Transaction: 99
-  TradeValue: 3470148
-  Open: 60.3
-  Max: 60.3
-  Min: 59.9
-  Close: 60.2
+  TradeVolume: 53270
+  Transaction: 80
+  TradeValue: 3200318
+  Open: 60.2
+  Max: 60.2
+  Min: 60.0
+  Close: 60.1
   Change: -0.1
-  LastBuy: 60.1
-  LastBuyVolume: 1
+  LastBuy: 60.0
+  LastBuyVolume: 10
   LastSell: 60.2
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8916'
   StockName: 光隆
-  TradeVolume: 260685
-  Transaction: 232
-  TradeValue: 14176330
-  Open: 54.5
-  Max: 54.7
-  Min: 54.1
-  Close: 54.1
-  Change: -0.5
-  LastBuy: 54.1
-  LastBuyVolume: 1
-  LastSell: 54.2
+  TradeVolume: 121185
+  Transaction: 116
+  TradeValue: 6558323
+  Open: 54.3
+  Max: 54.3
+  Min: 53.9
+  Close: 54.0
+  Change: -0.1
+  LastBuy: 54.0
+  LastBuyVolume: 16
+  LastSell: 54.1
   LastSellVolume: 2
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8917'
   StockName: 欣泰
-  TradeVolume: 18819
-  Transaction: 31
-  TradeValue: 1249885
-  Open: 66.0
+  TradeVolume: 10146
+  Transaction: 15
+  TradeValue: 674748
+  Open: 66.5
   Max: 66.5
-  Min: 66.0
+  Min: 66.5
   Close: 66.5
-  Change: 0.5
-  LastBuy: 66.3
+  Change: 0.0
+  LastBuy: 66.4
   LastBuyVolume: 1
-  LastSell: 66.7
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastSell: 66.8
+  LastSellVolume: 7
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8921'
   StockName: 沈氏
-  TradeVolume: 902016
-  Transaction: 20
-  TradeValue: 12583122
+  TradeVolume: 4277
+  Transaction: 14
+  TradeValue: 59665
   Open: 13.95
   Max: 13.95
   Min: 13.95
   Close: 13.95
   Change: 0.0
-  LastBuy: 13.7
+  LastBuy: 13.9
   LastBuyVolume: 1
-  LastSell: 13.95
+  LastSell: 14.0
   LastSellVolume: 1
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8923'
   StockName: 時報
-  TradeVolume: 1000
-  Transaction: 1
-  TradeValue: 19500
-  Open: 19.5
-  Max: 19.5
-  Min: 19.5
-  Close: 19.5
-  Change: -0.4
-  LastBuy: 19.45
-  LastBuyVolume: 5
+  TradeVolume: 0
+  Transaction: 0
+  TradeValue: 0
+  Open: 0.0
+  Max: 0.0
+  Min: 0.0
+  Close: 0.0
+  Change: 0.0
+  LastBuy: 19.5
+  LastBuyVolume: 1
   LastSell: 19.9
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8924'
   StockName: 大田
-  TradeVolume: 88569
-  Transaction: 147
-  TradeValue: 7778042
-  Open: 89.0
-  Max: 89.0
-  Min: 87.4
-  Close: 87.5
-  Change: -0.8
-  LastBuy: 87.5
-  LastBuyVolume: 15
-  LastSell: 87.6
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  TradeVolume: 81459
+  Transaction: 105
+  TradeValue: 7144946
+  Open: 87.5
+  Max: 88.0
+  Min: 87.5
+  Close: 87.8
+  Change: 0.3
+  LastBuy: 87.7
+  LastBuyVolume: 1
+  LastSell: 87.8
+  LastSellVolume: 9
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8926'
   StockName: 台汽電
-  TradeVolume: 666576
-  Transaction: 679
-  TradeValue: 27025189
-  Open: 40.4
-  Max: 40.8
-  Min: 40.3
-  Close: 40.5
+  TradeVolume: 515736
+  Transaction: 539
+  TradeValue: 20879688
+  Open: 40.5
+  Max: 40.6
+  Min: 40.4
+  Close: 40.6
   Change: 0.1
-  LastBuy: 40.5
-  LastBuyVolume: 1
-  LastSell: 40.55
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  LastBuy: 40.55
+  LastBuyVolume: 8
+  LastSell: 40.6
+  LastSellVolume: 3
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8927'
   StockName: 北基
-  TradeVolume: 606499
-  Transaction: 524
-  TradeValue: 31220236
-  Open: 51.5
-  Max: 52.5
-  Min: 51.0
-  Close: 51.8
-  Change: 0.5
-  LastBuy: 51.7
+  TradeVolume: 1147735
+  Transaction: 606
+  TradeValue: 61071811
+  Open: 52.1
+  Max: 54.1
+  Min: 52.0
+  Close: 53.5
+  Change: 1.7
+  LastBuy: 53.5
   LastBuyVolume: 2
-  LastSell: 51.8
-  LastSellVolume: 14
-  DateStr: '2023-12-07'
+  LastSell: 53.6
+  LastSellVolume: 20
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8928'
   StockName: 鉅明
-  TradeVolume: 25113
-  Transaction: 33
-  TradeValue: 801463
-  Open: 31.95
-  Max: 31.95
-  Min: 31.9
-  Close: 31.9
-  Change: -0.1
-  LastBuy: 31.9
-  LastBuyVolume: 2
-  LastSell: 31.95
+  TradeVolume: 23253
+  Transaction: 41
+  TradeValue: 742150
+  Open: 31.9
+  Max: 32.0
+  Min: 31.85
+  Close: 31.95
+  Change: 0.05
+  LastBuy: 31.95
+  LastBuyVolume: 4
+  LastSell: 32.0
   LastSellVolume: 1
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8929'
   StockName: 富堡
-  TradeVolume: 13187
-  Transaction: 154
-  TradeValue: 267747
-  Open: 20.4
-  Max: 20.4
-  Min: 20.2
+  TradeVolume: 27558
+  Transaction: 171
+  TradeValue: 557492
+  Open: 20.25
+  Max: 20.35
+  Min: 20.15
   Close: 20.2
   Change: 0.0
   LastBuy: 20.15
-  LastBuyVolume: 13
+  LastBuyVolume: 1
   LastSell: 20.2
-  LastSellVolume: 9
-  DateStr: '2023-12-07'
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8930'
   StockName: 青鋼
-  TradeVolume: 1610057
-  Transaction: 1184
-  TradeValue: 59452835
-  Open: 37.2
-  Max: 37.6
-  Min: 36.05
-  Close: 36.9
-  Change: 1.2
-  LastBuy: 36.85
-  LastBuyVolume: 8
-  LastSell: 36.9
-  LastSellVolume: 3
-  DateStr: '2023-12-07'
+  TradeVolume: 1221049
+  Transaction: 983
+  TradeValue: 46175465
+  Open: 37.45
+  Max: 38.5
+  Min: 37.1
+  Close: 37.65
+  Change: 0.75
+  LastBuy: 37.65
+  LastBuyVolume: 2
+  LastSell: 37.7
+  LastSellVolume: 24
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8931'
   StockName: 大汽電
-  TradeVolume: 133461
-  Transaction: 193
-  TradeValue: 6701586
-  Open: 51.5
-  Max: 51.5
-  Min: 49.6
-  Close: 49.85
-  Change: -0.15
-  LastBuy: 49.7
-  LastBuyVolume: 1
-  LastSell: 49.9
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  TradeVolume: 149359
+  Transaction: 184
+  TradeValue: 7332448
+  Open: 49.55
+  Max: 49.6
+  Min: 48.65
+  Close: 49.3
+  Change: -0.55
+  LastBuy: 49.3
+  LastBuyVolume: 4
+  LastSell: 49.35
+  LastSellVolume: 4
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8932'
   StockName: 智通
-  TradeVolume: 1095549
-  Transaction: 690
-  TradeValue: 117057292
-  Open: 107.0
-  Max: 111.0
+  TradeVolume: 828038
+  Transaction: 391
+  TradeValue: 87488205
+  Open: 105.0
+  Max: 108.0
   Min: 103.0
   Close: 105.0
-  Change: -0.5
+  Change: 0.0
   LastBuy: 104.5
-  LastBuyVolume: 6
-  LastSell: 105.0
-  LastSellVolume: 14
-  DateStr: '2023-12-07'
+  LastBuyVolume: 16
+  LastSell: 105.5
+  LastSellVolume: 7
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8933'
   StockName: 愛地雅
-  TradeVolume: 278926
-  Transaction: 482
-  TradeValue: 2731192
-  Open: 9.82
-  Max: 9.82
-  Min: 9.76
+  TradeVolume: 123500
+  Transaction: 291
+  TradeValue: 1208171
+  Open: 9.77
+  Max: 9.8
+  Min: 9.77
   Close: 9.77
-  Change: -0.05
-  LastBuy: 9.76
-  LastBuyVolume: 29
-  LastSell: 9.79
-  LastSellVolume: 7
-  DateStr: '2023-12-07'
+  Change: 0.0
+  LastBuy: 9.77
+  LastBuyVolume: 19
+  LastSell: 9.78
+  LastSellVolume: 5
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8935'
   StockName: 邦泰
-  TradeVolume: 13005
-  Transaction: 17
-  TradeValue: 140052
+  TradeVolume: 17012
+  Transaction: 21
+  TradeValue: 183528
   Open: 10.8
   Max: 10.85
   Min: 10.75
   Close: 10.85
-  Change: -0.05
+  Change: 0.0
   LastBuy: 10.75
-  LastBuyVolume: 7
-  LastSell: 10.8
-  LastSellVolume: 5
-  DateStr: '2023-12-07'
+  LastBuyVolume: 1
+  LastSell: 10.85
+  LastSellVolume: 6
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8936'
   StockName: 國統
-  TradeVolume: 20568441
-  Transaction: 10691
-  TradeValue: 999329686
-  Open: 47.6
-  Max: 49.8
-  Min: 46.85
-  Close: 48.5
-  Change: 0.8
-  LastBuy: 48.5
-  LastBuyVolume: 100
-  LastSell: 48.55
-  LastSellVolume: 10
-  DateStr: '2023-12-07'
+  TradeVolume: 8764907
+  Transaction: 5188
+  TradeValue: 425564858
+  Open: 48.45
+  Max: 49.25
+  Min: 47.65
+  Close: 49.0
+  Change: 0.5
+  LastBuy: 49.0
+  LastBuyVolume: 26
+  LastSell: 49.05
+  LastSellVolume: 56
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8937'
   StockName: 合騏
-  TradeVolume: 52946
-  Transaction: 78
-  TradeValue: 1116672
-  Open: 21.5
-  Max: 21.5
-  Min: 20.9
-  Close: 21.2
-  Change: 0.15
-  LastBuy: 20.95
-  LastBuyVolume: 5
-  LastSell: 21.2
-  LastSellVolume: 5
-  DateStr: '2023-12-07'
+  TradeVolume: 38011
+  Transaction: 34
+  TradeValue: 814835
+  Open: 21.4
+  Max: 21.65
+  Min: 21.15
+  Close: 21.55
+  Change: 0.35
+  LastBuy: 21.2
+  LastBuyVolume: 1
+  LastSell: 21.55
+  LastSellVolume: 4
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8938'
   StockName: 明安
-  TradeVolume: 222110
-  Transaction: 244
-  TradeValue: 16206592
-  Open: 72.5
-  Max: 73.4
-  Min: 72.5
+  TradeVolume: 173163
+  Transaction: 350
+  TradeValue: 12650050
+  Open: 73.0
+  Max: 73.5
+  Min: 72.8
   Close: 72.9
   Change: 0.0
   LastBuy: 72.9
-  LastBuyVolume: 13
+  LastBuyVolume: 1
   LastSell: 73.0
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastSellVolume: 8
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8940'
   StockName: 新天地
-  TradeVolume: 319295
-  Transaction: 264
-  TradeValue: 9288664
-  Open: 29.4
-  Max: 29.55
-  Min: 28.85
-  Close: 29.4
-  Change: 0.0
-  LastBuy: 29.1
-  LastBuyVolume: 7
-  LastSell: 29.4
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  TradeVolume: 267414
+  Transaction: 250
+  TradeValue: 7748731
+  Open: 29.45
+  Max: 29.5
+  Min: 28.7
+  Close: 28.9
+  Change: -0.5
+  LastBuy: 28.85
+  LastBuyVolume: 1
+  LastSell: 28.95
+  LastSellVolume: 4
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8941'
   StockName: 關中
-  TradeVolume: 2323
-  Transaction: 8
-  TradeValue: 135742
-  Open: 58.3
-  Max: 58.6
-  Min: 58.3
-  Close: 58.6
+  TradeVolume: 1170
+  Transaction: 7
+  TradeValue: 69204
+  Open: 58.8
+  Max: 58.8
+  Min: 58.8
+  Close: 58.8
   Change: 0.2
-  LastBuy: 58.2
-  LastBuyVolume: 3
-  LastSell: 59.0
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastBuy: 58.3
+  LastBuyVolume: 2
+  LastSell: 59.3
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8942'
   StockName: 森鉅
-  TradeVolume: 363114
-  Transaction: 300
-  TradeValue: 27343326
-  Open: 75.5
-  Max: 75.6
-  Min: 75.0
-  Close: 75.1
-  Change: -0.4
-  LastBuy: 75.1
-  LastBuyVolume: 8
-  LastSell: 75.4
-  LastSellVolume: 8
-  DateStr: '2023-12-07'
+  TradeVolume: 711491
+  Transaction: 751
+  TradeValue: 53081974
+  Open: 75.4
+  Max: 75.4
+  Min: 74.2
+  Close: 74.5
+  Change: -0.6
+  LastBuy: 74.5
+  LastBuyVolume: 16
+  LastSell: 74.6
+  LastSellVolume: 6
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '8996'
   StockName: 高力
-  TradeVolume: 12809257
-  Transaction: 11887
-  TradeValue: 3411529678
-  Open: 258.0
-  Max: 276.0
-  Min: 256.5
-  Close: 263.0
-  Change: 6.5
-  LastBuy: 262.5
-  LastBuyVolume: 62
-  LastSell: 263.0
-  LastSellVolume: 53
-  DateStr: '2023-12-07'
+  TradeVolume: 11339430
+  Transaction: 13000
+  TradeValue: 2887423720
+  Open: 264.0
+  Max: 268.0
+  Min: 248.0
+  Close: 248.0
+  Change: -15.0
+  LastBuy: 247.5
+  LastBuyVolume: 59
+  LastSell: 248.0
+  LastSellVolume: 6
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9103'
   StockName: 美德醫療-DR
-  TradeVolume: 1578613
-  Transaction: 506
-  TradeValue: 14169762
-  Open: 9.0
-  Max: 9.3
-  Min: 8.75
-  Close: 8.83
-  Change: 0.03
-  LastBuy: 8.83
-  LastBuyVolume: 19
-  LastSell: 8.84
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  TradeVolume: 1060008
+  Transaction: 395
+  TradeValue: 9396869
+  Open: 8.97
+  Max: 9.05
+  Min: 8.69
+  Close: 8.72
+  Change: -0.11
+  LastBuy: 8.72
+  LastBuyVolume: 95
+  LastSell: 8.75
+  LastSellVolume: 3
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9105'
   StockName: 泰金寶-DR
-  TradeVolume: 3348564
-  Transaction: 551
-  TradeValue: 10007277
-  Open: 3.0
-  Max: 3.01
-  Min: 2.97
-  Close: 2.99
-  Change: 0.01
-  LastBuy: 2.98
-  LastBuyVolume: 41
-  LastSell: 2.99
-  LastSellVolume: 83
-  DateStr: '2023-12-07'
+  TradeVolume: 6136391
+  Transaction: 1115
+  TradeValue: 18304657
+  Open: 3.05
+  Max: 3.05
+  Min: 2.95
+  Close: 2.97
+  Change: -0.02
+  LastBuy: 2.97
+  LastBuyVolume: 147
+  LastSell: 2.98
+  LastSellVolume: 29
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9110'
   StockName: 越南控-DR
-  TradeVolume: 24020
-  Transaction: 15
-  TradeValue: 172454
-  Open: 7.17
-  Max: 7.3
-  Min: 7.16
-  Close: 7.2
-  Change: -0.04
-  LastBuy: 7.16
+  TradeVolume: 88020
+  Transaction: 35
+  TradeValue: 629332
+  Open: 7.28
+  Max: 7.28
+  Min: 7.12
+  Close: 7.12
+  Change: -0.08
+  LastBuy: 7.11
   LastBuyVolume: 12
-  LastSell: 7.2
-  LastSellVolume: 6
-  DateStr: '2023-12-07'
+  LastSell: 7.19
+  LastSellVolume: 3
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9136'
   StockName: 巨騰-DR
-  TradeVolume: 103605
-  Transaction: 41
-  TradeValue: 680954
-  Open: 6.59
-  Max: 6.59
-  Min: 6.54
+  TradeVolume: 205100
+  Transaction: 45
+  TradeValue: 1351869
+  Open: 6.6
+  Max: 6.65
+  Min: 6.55
   Close: 6.59
-  Change: -0.03
-  LastBuy: 6.57
-  LastBuyVolume: 1
+  Change: 0.0
+  LastBuy: 6.55
+  LastBuyVolume: 14
   LastSell: 6.59
-  LastSellVolume: 15
-  DateStr: '2023-12-07'
+  LastSellVolume: 2
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9802'
   StockName: 鈺齊-KY
-  TradeVolume: 755464
-  Transaction: 670
-  TradeValue: 110398917
+  TradeVolume: 553576
+  Transaction: 555
+  TradeValue: 81128184
   Open: 146.0
-  Max: 147.5
-  Min: 145.0
+  Max: 148.0
+  Min: 144.5
   Close: 147.0
   Change: 0.0
-  LastBuy: 146.5
-  LastBuyVolume: 1
-  LastSell: 147.0
-  LastSellVolume: 16
-  DateStr: '2023-12-07'
+  LastBuy: 147.0
+  LastBuyVolume: 464
+  LastSell: 147.5
+  LastSellVolume: 25
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9902'
   StockName: 台火
-  TradeVolume: 122672
-  Transaction: 59
-  TradeValue: 1528653
+  TradeVolume: 92207
+  Transaction: 49
+  TradeValue: 1152768
   Open: 12.5
-  Max: 12.5
-  Min: 12.4
+  Max: 12.6
+  Min: 12.45
   Close: 12.45
-  Change: -0.05
+  Change: 0.0
   LastBuy: 12.45
-  LastBuyVolume: 8
+  LastBuyVolume: 3
   LastSell: 12.5
-  LastSellVolume: 10
-  DateStr: '2023-12-07'
+  LastSellVolume: 19
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9904'
   StockName: 寶成
-  TradeVolume: 3535876
-  Transaction: 1707
-  TradeValue: 109741806
-  Open: 31.0
-  Max: 31.2
+  TradeVolume: 3544114
+  Transaction: 1692
+  TradeValue: 110014991
+  Open: 31.1
+  Max: 31.15
   Min: 30.95
-  Close: 30.95
-  Change: -0.1
-  LastBuy: 30.95
-  LastBuyVolume: 243
-  LastSell: 31.0
-  LastSellVolume: 44
-  DateStr: '2023-12-07'
+  Close: 31.1
+  Change: 0.15
+  LastBuy: 31.05
+  LastBuyVolume: 8
+  LastSell: 31.1
+  LastSellVolume: 165
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9905'
   StockName: 大華
-  TradeVolume: 207696
-  Transaction: 137
-  TradeValue: 4983455
-  Open: 24.0
-  Max: 24.05
-  Min: 23.95
-  Close: 24.0
-  Change: -0.05
+  TradeVolume: 107630
+  Transaction: 86
+  TradeValue: 2585476
+  Open: 24.05
+  Max: 24.1
+  Min: 24.0
+  Close: 24.05
+  Change: 0.05
   LastBuy: 24.0
-  LastBuyVolume: 12
+  LastBuyVolume: 16
   LastSell: 24.05
-  LastSellVolume: 7
-  DateStr: '2023-12-07'
+  LastSellVolume: 9
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9906'
   StockName: 欣巴巴
-  TradeVolume: 155440
-  Transaction: 161
-  TradeValue: 8528792
-  Open: 54.8
-  Max: 55.4
-  Min: 54.2
-  Close: 54.2
-  Change: 0.2
-  LastBuy: 54.2
-  LastBuyVolume: 2
-  LastSell: 54.4
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  TradeVolume: 33152
+  Transaction: 111
+  TradeValue: 1801295
+  Open: 54.5
+  Max: 54.8
+  Min: 54.1
+  Close: 54.1
+  Change: -0.1
+  LastBuy: 54.0
+  LastBuyVolume: 4
+  LastSell: 54.1
+  LastSellVolume: 9
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9907'
   StockName: 統一實
-  TradeVolume: 1151052
-  Transaction: 762
-  TradeValue: 18496971
-  Open: 16.15
+  TradeVolume: 698385
+  Transaction: 486
+  TradeValue: 11217577
+  Open: 16.2
   Max: 16.2
   Min: 16.0
-  Close: 16.05
-  Change: -0.1
+  Close: 16.1
+  Change: 0.05
   LastBuy: 16.05
-  LastBuyVolume: 178
+  LastBuyVolume: 81
   LastSell: 16.1
-  LastSellVolume: 54
-  DateStr: '2023-12-07'
+  LastSellVolume: 2
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9908'
   StockName: 大台北
-  TradeVolume: 59753
-  Transaction: 88
-  TradeValue: 1958189
-  Open: 32.75
-  Max: 32.85
-  Min: 32.75
-  Close: 32.8
-  Change: 0.05
+  TradeVolume: 89923
+  Transaction: 85
+  TradeValue: 2945763
+  Open: 32.9
+  Max: 32.9
+  Min: 32.65
+  Close: 32.75
+  Change: -0.05
   LastBuy: 32.75
-  LastBuyVolume: 9
+  LastBuyVolume: 17
   LastSell: 32.8
-  LastSellVolume: 7
-  DateStr: '2023-12-07'
+  LastSellVolume: 11
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9910'
   StockName: 豐泰
-  TradeVolume: 880989
-  Transaction: 974
-  TradeValue: 159550002
-  Open: 180.5
-  Max: 183.0
-  Min: 180.5
-  Close: 180.5
-  Change: -1.5
-  LastBuy: 180.5
-  LastBuyVolume: 3
-  LastSell: 181.0
-  LastSellVolume: 16
-  DateStr: '2023-12-07'
+  TradeVolume: 618443
+  Transaction: 818
+  TradeValue: 112315649
+  Open: 182.0
+  Max: 182.5
+  Min: 181.0
+  Close: 182.0
+  Change: 1.5
+  LastBuy: 181.0
+  LastBuyVolume: 54
+  LastSell: 182.5
+  LastSellVolume: 98
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9911'
   StockName: 櫻花
-  TradeVolume: 351781
-  Transaction: 611
-  TradeValue: 24179627
-  Open: 69.5
-  Max: 69.5
-  Min: 68.1
-  Close: 68.6
-  Change: 0.6
-  LastBuy: 68.6
-  LastBuyVolume: 1
-  LastSell: 68.7
-  LastSellVolume: 3
-  DateStr: '2023-12-07'
+  TradeVolume: 669883
+  Transaction: 805
+  TradeValue: 46830101
+  Open: 69.3
+  Max: 70.5
+  Min: 69.3
+  Close: 70.0
+  Change: 1.4
+  LastBuy: 69.9
+  LastBuyVolume: 13
+  LastSell: 70.0
+  LastSellVolume: 63
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9912'
   StockName: 偉聯
-  TradeVolume: 35944
-  Transaction: 87
-  TradeValue: 362625
-  Open: 10.15
-  Max: 10.2
-  Min: 10.05
-  Close: 10.2
-  Change: -0.05
-  LastBuy: 10.05
-  LastBuyVolume: 12
-  LastSell: 10.2
-  LastSellVolume: 4
-  DateStr: '2023-12-07'
+  TradeVolume: 34499
+  Transaction: 145
+  TradeValue: 352582
+  Open: 10.2
+  Max: 10.3
+  Min: 10.2
+  Close: 10.25
+  Change: 0.05
+  LastBuy: 10.2
+  LastBuyVolume: 1
+  LastSell: 10.25
+  LastSellVolume: 5
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9914'
   StockName: 美利達
-  TradeVolume: 273973
-  Transaction: 1048
-  TradeValue: 50734004
+  TradeVolume: 585092
+  Transaction: 1435
+  TradeValue: 107200995
   Open: 185.0
-  Max: 187.0
-  Min: 184.0
-  Close: 184.0
-  Change: -2.0
+  Max: 185.5
+  Min: 181.0
+  Close: 184.5
+  Change: 0.5
   LastBuy: 184.0
-  LastBuyVolume: 18
-  LastSell: 185.0
-  LastSellVolume: 7
-  DateStr: '2023-12-07'
+  LastBuyVolume: 5
+  LastSell: 184.5
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9917'
   StockName: 中保科
-  TradeVolume: 1473992
-  Transaction: 1844
-  TradeValue: 173894191
-  Open: 118.0
-  Max: 120.0
+  TradeVolume: 1348137
+  Transaction: 1921
+  TradeValue: 157961508
+  Open: 118.5
+  Max: 119.0
   Min: 116.5
-  Close: 118.0
-  Change: -0.5
-  LastBuy: 117.5
-  LastBuyVolume: 90
-  LastSell: 118.0
-  LastSellVolume: 3
-  DateStr: '2023-12-07'
+  Close: 117.0
+  Change: -1.0
+  LastBuy: 117.0
+  LastBuyVolume: 25
+  LastSell: 117.5
+  LastSellVolume: 12
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9918'
   StockName: 欣天然
-  TradeVolume: 11000
+  TradeVolume: 8063
   Transaction: 11
-  TradeValue: 448750
-  Open: 40.55
-  Max: 40.85
-  Min: 40.55
-  Close: 40.85
-  Change: 0.3
-  LastBuy: 40.55
-  LastBuyVolume: 1
-  LastSell: 40.85
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  TradeValue: 329778
+  Open: 40.75
+  Max: 40.95
+  Min: 40.75
+  Close: 40.95
+  Change: 0.1
+  LastBuy: 40.75
+  LastBuyVolume: 4
+  LastSell: 40.95
+  LastSellVolume: 6
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9919'
   StockName: 康那香
-  TradeVolume: 4510944
-  Transaction: 2789
-  TradeValue: 126403516
-  Open: 28.1
-  Max: 28.8
-  Min: 27.3
-  Close: 27.8
-  Change: -1.2
-  LastBuy: 27.75
-  LastBuyVolume: 65
-  LastSell: 27.8
-  LastSellVolume: 6
-  DateStr: '2023-12-07'
+  TradeVolume: 2443764
+  Transaction: 1524
+  TradeValue: 68465256
+  Open: 27.8
+  Max: 28.3
+  Min: 27.8
+  Close: 28.0
+  Change: 0.2
+  LastBuy: 28.0
+  LastBuyVolume: 34
+  LastSell: 28.05
+  LastSellVolume: 55
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9921'
   StockName: 巨大
-  TradeVolume: 1173995
-  Transaction: 1564
-  TradeValue: 214982399
-  Open: 185.5
-  Max: 185.5
-  Min: 182.0
-  Close: 182.0
-  Change: -3.0
-  LastBuy: 181.5
-  LastBuyVolume: 80
-  LastSell: 182.0
-  LastSellVolume: 7
-  DateStr: '2023-12-07'
+  TradeVolume: 1370262
+  Transaction: 1468
+  TradeValue: 250377201
+  Open: 183.5
+  Max: 184.0
+  Min: 180.5
+  Close: 184.0
+  Change: 2.0
+  LastBuy: 183.5
+  LastBuyVolume: 8
+  LastSell: 184.0
+  LastSellVolume: 16
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9924'
   StockName: 福興
-  TradeVolume: 257955
-  Transaction: 332
-  TradeValue: 12345142
-  Open: 47.8
+  TradeVolume: 269753
+  Transaction: 207
+  TradeValue: 12902006
+  Open: 47.9
   Max: 48.1
   Min: 47.65
-  Close: 47.85
-  Change: -0.05
-  LastBuy: 47.8
-  LastBuyVolume: 27
+  Close: 47.9
+  Change: 0.05
+  LastBuy: 47.85
+  LastBuyVolume: 1
   LastSell: 47.9
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9925'
   StockName: 新保
-  TradeVolume: 216731
-  Transaction: 180
-  TradeValue: 8798969
-  Open: 40.7
-  Max: 40.9
+  TradeVolume: 192769
+  Transaction: 137
+  TradeValue: 7821331
+  Open: 40.6
+  Max: 40.7
   Min: 40.5
-  Close: 40.65
-  Change: -0.05
-  LastBuy: 40.6
-  LastBuyVolume: 1
-  LastSell: 40.65
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  Close: 40.7
+  Change: 0.05
+  LastBuy: 40.55
+  LastBuyVolume: 40
+  LastSell: 40.7
+  LastSellVolume: 1
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9926'
   StockName: 新海
-  TradeVolume: 25254
-  Transaction: 46
-  TradeValue: 1369899
-  Open: 54.0
-  Max: 54.8
-  Min: 53.8
-  Close: 54.8
-  Change: 0.7
-  LastBuy: 54.0
-  LastBuyVolume: 7
-  LastSell: 54.8
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  TradeVolume: 26869
+  Transaction: 82
+  TradeValue: 1475456
+  Open: 54.5
+  Max: 55.3
+  Min: 54.5
+  Close: 55.3
+  Change: 0.5
+  LastBuy: 54.9
+  LastBuyVolume: 1
+  LastSell: 55.3
+  LastSellVolume: 4
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9927'
   StockName: 泰銘
-  TradeVolume: 1589680
-  Transaction: 3799
-  TradeValue: 110382553
-  Open: 70.5
-  Max: 71.0
-  Min: 68.6
-  Close: 69.1
-  Change: -1.8
-  LastBuy: 69.1
-  LastBuyVolume: 13
-  LastSell: 69.2
-  LastSellVolume: 16
-  DateStr: '2023-12-07'
+  TradeVolume: 434676
+  Transaction: 516
+  TradeValue: 30186715
+  Open: 69.8
+  Max: 69.8
+  Min: 69.0
+  Close: 69.6
+  Change: 0.5
+  LastBuy: 69.3
+  LastBuyVolume: 9
+  LastSell: 69.6
+  LastSellVolume: 4
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9928'
   StockName: 中視
-  TradeVolume: 603755
-  Transaction: 453
-  TradeValue: 13920589
-  Open: 23.45
-  Max: 23.9
-  Min: 22.8
-  Close: 22.8
-  Change: -1.05
-  LastBuy: 22.8
-  LastBuyVolume: 55
-  LastSell: 22.9
-  LastSellVolume: 5
-  DateStr: '2023-12-07'
+  TradeVolume: 879372
+  Transaction: 589
+  TradeValue: 21715694
+  Open: 22.85
+  Max: 25.05
+  Min: 22.85
+  Close: 25.05
+  Change: 2.25
+  LastBuy: 25.05
+  LastBuyVolume: 359
+  LastSell: 0.0
+  LastSellVolume: 0
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9929'
   StockName: 秋雨
-  TradeVolume: 27249
-  Transaction: 16
-  TradeValue: 428875
-  Open: 15.8
-  Max: 15.8
-  Min: 15.55
-  Close: 15.8
-  Change: 0.0
-  LastBuy: 15.7
-  LastBuyVolume: 52
-  LastSell: 15.8
-  LastSellVolume: 8
-  DateStr: '2023-12-07'
+  TradeVolume: 35609
+  Transaction: 30
+  TradeValue: 564869
+  Open: 15.85
+  Max: 16.0
+  Min: 15.6
+  Close: 15.95
+  Change: 0.15
+  LastBuy: 15.85
+  LastBuyVolume: 2
+  LastSell: 15.95
+  LastSellVolume: 6
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9930'
   StockName: 中聯資源
-  TradeVolume: 90583
-  Transaction: 98
-  TradeValue: 5167195
+  TradeVolume: 59914
+  Transaction: 67
+  TradeValue: 3415439
   Open: 57.0
-  Max: 57.3
+  Max: 57.2
   Min: 56.8
-  Close: 57.0
-  Change: -0.1
+  Close: 57.2
+  Change: 0.2
   LastBuy: 57.0
   LastBuyVolume: 1
   LastSell: 57.2
-  LastSellVolume: 10
-  DateStr: '2023-12-07'
+  LastSellVolume: 8
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9931'
   StockName: 欣高
-  TradeVolume: 7000
-  Transaction: 6
-  TradeValue: 273500
-  Open: 39.0
-  Max: 39.45
-  Min: 38.9
-  Close: 39.35
-  Change: 0.35
-  LastBuy: 39.3
-  LastBuyVolume: 3
-  LastSell: 39.35
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  TradeVolume: 10155
+  Transaction: 12
+  TradeValue: 398593
+  Open: 39.3
+  Max: 39.3
+  Min: 39.05
+  Close: 39.3
+  Change: -0.05
+  LastBuy: 39.05
+  LastBuyVolume: 1
+  LastSell: 39.3
+  LastSellVolume: 7
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9933'
   StockName: 中鼎
-  TradeVolume: 1882025
-  Transaction: 1881
-  TradeValue: 82797749
-  Open: 44.0
+  TradeVolume: 1716161
+  Transaction: 2687
+  TradeValue: 75295078
+  Open: 44.1
   Max: 44.2
-  Min: 43.85
-  Close: 44.05
-  Change: 0.1
-  LastBuy: 44.05
-  LastBuyVolume: 10
-  LastSell: 44.1
-  LastSellVolume: 12
-  DateStr: '2023-12-07'
+  Min: 43.75
+  Close: 43.8
+  Change: -0.25
+  LastBuy: 43.8
+  LastBuyVolume: 4
+  LastSell: 43.85
+  LastSellVolume: 15
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9934'
   StockName: 成霖
-  TradeVolume: 494050
-  Transaction: 188
-  TradeValue: 7265592
-  Open: 14.7
-  Max: 14.75
-  Min: 14.65
-  Close: 14.7
-  Change: 0.0
-  LastBuy: 14.65
-  LastBuyVolume: 51
+  TradeVolume: 444046
+  Transaction: 137
+  TradeValue: 6541309
+  Open: 14.8
+  Max: 14.8
+  Min: 14.7
+  Close: 14.75
+  Change: 0.05
+  LastBuy: 14.7
+  LastBuyVolume: 63
   LastSell: 14.75
-  LastSellVolume: 22
-  DateStr: '2023-12-07'
+  LastSellVolume: 4
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9935'
   StockName: 慶豐富
-  TradeVolume: 391841
-  Transaction: 233
-  TradeValue: 7675737
-  Open: 19.9
-  Max: 19.9
-  Min: 19.45
-  Close: 19.5
-  Change: -0.35
+  TradeVolume: 213235
+  Transaction: 183
+  TradeValue: 4181487
+  Open: 19.55
+  Max: 19.75
+  Min: 19.5
+  Close: 19.55
+  Change: 0.05
   LastBuy: 19.5
-  LastBuyVolume: 79
+  LastBuyVolume: 14
   LastSell: 19.55
-  LastSellVolume: 3
-  DateStr: '2023-12-07'
+  LastSellVolume: 6
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9937'
   StockName: 全國
-  TradeVolume: 13347
-  Transaction: 22
-  TradeValue: 920813
-  Open: 68.6
-  Max: 69.4
-  Min: 68.6
-  Close: 69.0
-  Change: -0.2
-  LastBuy: 68.9
+  TradeVolume: 46002
+  Transaction: 31
+  TradeValue: 3197439
+  Open: 69.8
+  Max: 69.8
+  Min: 69.2
+  Close: 69.8
+  Change: 0.8
+  LastBuy: 69.1
   LastBuyVolume: 1
-  LastSell: 69.0
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  LastSell: 69.8
+  LastSellVolume: 7
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9938'
   StockName: 百和
-  TradeVolume: 1911657
-  Transaction: 1396
-  TradeValue: 120195543
+  TradeVolume: 1790469
+  Transaction: 1170
+  TradeValue: 111253991
   Open: 62.8
-  Max: 63.9
-  Min: 62.4
-  Close: 62.5
-  Change: -1.4
-  LastBuy: 62.4
-  LastBuyVolume: 51
-  LastSell: 62.5
-  LastSellVolume: 8
-  DateStr: '2023-12-07'
+  Max: 63.2
+  Min: 61.5
+  Close: 62.0
+  Change: -0.5
+  LastBuy: 61.8
+  LastBuyVolume: 4
+  LastSell: 62.0
+  LastSellVolume: 5
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9939'
   StockName: 宏全
-  TradeVolume: 1845192
-  Transaction: 1401
-  TradeValue: 229168714
-  Open: 125.5
+  TradeVolume: 1614165
+  Transaction: 1160
+  TradeValue: 201481037
+  Open: 125.0
   Max: 126.0
-  Min: 123.0
-  Close: 123.5
-  Change: -1.0
-  LastBuy: 123.0
-  LastBuyVolume: 52
-  LastSell: 123.5
-  LastSellVolume: 5
-  DateStr: '2023-12-07'
+  Min: 123.5
+  Close: 125.5
+  Change: 2.0
+  LastBuy: 125.0
+  LastBuyVolume: 51
+  LastSell: 125.5
+  LastSellVolume: 20
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9940'
   StockName: 信義
-  TradeVolume: 180914
-  Transaction: 155
-  TradeValue: 5349034
+  TradeVolume: 283431
+  Transaction: 259
+  TradeValue: 8445374
   Open: 29.6
-  Max: 29.7
-  Min: 29.5
-  Close: 29.6
-  Change: -0.1
-  LastBuy: 29.6
-  LastBuyVolume: 21
-  LastSell: 29.65
-  LastSellVolume: 5
-  DateStr: '2023-12-07'
+  Max: 29.9
+  Min: 29.55
+  Close: 29.9
+  Change: 0.3
+  LastBuy: 29.85
+  LastBuyVolume: 20
+  LastSell: 29.9
+  LastSellVolume: 9
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9941'
   StockName: 裕融
-  TradeVolume: 323313
-  Transaction: 1438
-  TradeValue: 60394916
-  Open: 187.5
-  Max: 187.5
+  TradeVolume: 514520
+  Transaction: 1545
+  TradeValue: 96084806
+  Open: 188.0
+  Max: 188.0
   Min: 186.0
-  Close: 187.0
-  Change: 0.0
+  Close: 186.5
+  Change: -0.5
   LastBuy: 186.5
   LastBuyVolume: 11
   LastSell: 187.0
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  LastSellVolume: 15
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: 9941A
   StockName: 裕融甲特
-  TradeVolume: 17000
-  Transaction: 11
-  TradeValue: 836650
+  TradeVolume: 64000
+  Transaction: 14
+  TradeValue: 3149450
   Open: 49.2
   Max: 49.25
-  Min: 49.15
+  Min: 49.2
   Close: 49.25
-  Change: 0.1
+  Change: 0.0
   LastBuy: 49.2
-  LastBuyVolume: 21
+  LastBuyVolume: 44
   LastSell: 49.25
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  LastSellVolume: 2
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9942'
   StockName: 茂順
-  TradeVolume: 244077
-  Transaction: 337
-  TradeValue: 34163485
-  Open: 141.0
-  Max: 141.0
+  TradeVolume: 198516
+  Transaction: 233
+  TradeValue: 27694046
+  Open: 140.5
+  Max: 140.5
   Min: 139.0
   Close: 139.0
-  Change: -1.5
+  Change: 0.0
   LastBuy: 139.0
-  LastBuyVolume: 20
+  LastBuyVolume: 16
   LastSell: 139.5
-  LastSellVolume: 2
-  DateStr: '2023-12-07'
+  LastSellVolume: 9
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9943'
   StockName: 好樂迪
-  TradeVolume: 98964
-  Transaction: 172
-  TradeValue: 9190797
-  Open: 93.1
-  Max: 93.4
-  Min: 92.6
-  Close: 92.7
-  Change: -0.4
-  LastBuy: 92.6
-  LastBuyVolume: 7
-  LastSell: 92.8
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  TradeVolume: 144947
+  Transaction: 220
+  TradeValue: 13376506
+  Open: 92.7
+  Max: 92.8
+  Min: 92.0
+  Close: 92.2
+  Change: -0.5
+  LastBuy: 92.1
+  LastBuyVolume: 1
+  LastSell: 92.2
+  LastSellVolume: 2
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9944'
   StockName: 新麗
-  TradeVolume: 97089
-  Transaction: 79
-  TradeValue: 1979412
-  Open: 20.35
-  Max: 20.6
-  Min: 20.3
+  TradeVolume: 152435
+  Transaction: 146
+  TradeValue: 3094638
+  Open: 20.45
+  Max: 20.45
+  Min: 20.15
   Close: 20.35
-  Change: -0.05
-  LastBuy: 20.3
-  LastBuyVolume: 1
+  Change: 0.0
+  LastBuy: 20.15
+  LastBuyVolume: 4
   LastSell: 20.35
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  LastSellVolume: 15
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9945'
   StockName: 潤泰新
-  TradeVolume: 4431063
-  Transaction: 3605
-  TradeValue: 164217540
-  Open: 37.3
-  Max: 37.4
-  Min: 36.9
-  Close: 36.9
-  Change: -0.4
-  LastBuy: 36.9
-  LastBuyVolume: 148
-  LastSell: 36.95
-  LastSellVolume: 16
-  DateStr: '2023-12-07'
+  TradeVolume: 4179164
+  Transaction: 2926
+  TradeValue: 153486570
+  Open: 36.9
+  Max: 37.05
+  Min: 36.6
+  Close: 36.6
+  Change: -0.3
+  LastBuy: 36.6
+  LastBuyVolume: 429
+  LastSell: 36.65
+  LastSellVolume: 40
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9946'
   StockName: 三發地產
-  TradeVolume: 1975729
-  Transaction: 1279
-  TradeValue: 38908103
-  Open: 20.85
-  Max: 20.85
+  TradeVolume: 544104
+  Transaction: 357
+  TradeValue: 10441687
+  Open: 19.2
+  Max: 19.5
   Min: 19.05
-  Close: 19.1
-  Change: -1.75
-  LastBuy: 19.05
-  LastBuyVolume: 80
-  LastSell: 19.1
-  LastSellVolume: 5
-  DateStr: '2023-12-07'
+  Close: 19.15
+  Change: 0.05
+  LastBuy: 19.1
+  LastBuyVolume: 38
+  LastSell: 19.15
+  LastSellVolume: 4
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9949'
   StockName: 琉園
-  TradeVolume: 41717
-  Transaction: 65
-  TradeValue: 663965
-  Open: 16.0
-  Max: 16.15
+  TradeVolume: 15720
+  Transaction: 97
+  TradeValue: 246709
+  Open: 15.65
+  Max: 15.75
   Min: 15.65
-  Close: 15.8
-  Change: 0.0
-  LastBuy: 15.8
-  LastBuyVolume: 1
-  LastSell: 15.85
-  LastSellVolume: 1
-  DateStr: '2023-12-07'
+  Close: 15.75
+  Change: -0.05
+  LastBuy: 15.65
+  LastBuyVolume: 2
+  LastSell: 15.8
+  LastSellVolume: 2
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9950'
   StockName: 萬國通
-  TradeVolume: 2116715
-  Transaction: 1065
-  TradeValue: 57560446
-  Open: 26.7
-  Max: 27.7
-  Min: 26.7
-  Close: 26.95
-  Change: 0.1
-  LastBuy: 26.9
-  LastBuyVolume: 20
-  LastSell: 26.95
-  LastSellVolume: 12
-  DateStr: '2023-12-07'
+  TradeVolume: 1279715
+  Transaction: 735
+  TradeValue: 34726105
+  Open: 26.95
+  Max: 27.5
+  Min: 26.75
+  Close: 27.15
+  Change: 0.2
+  LastBuy: 27.1
+  LastBuyVolume: 6
+  LastSell: 27.15
+  LastSellVolume: 5
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9951'
   StockName: 皇田
-  TradeVolume: 229804
-  Transaction: 193
-  TradeValue: 17890560
-  Open: 77.0
-  Max: 78.3
-  Min: 76.9
-  Close: 78.0
-  Change: 1.1
-  LastBuy: 78.0
-  LastBuyVolume: 1
-  LastSell: 78.1
-  LastSellVolume: 8
-  DateStr: '2023-12-07'
+  TradeVolume: 168873
+  Transaction: 172
+  TradeValue: 13073926
+  Open: 78.0
+  Max: 78.0
+  Min: 77.0
+  Close: 77.6
+  Change: -0.4
+  LastBuy: 77.4
+  LastBuyVolume: 5
+  LastSell: 77.7
+  LastSellVolume: 3
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9955'
   StockName: 佳龍
-  TradeVolume: 615603
-  Transaction: 446
-  TradeValue: 15490428
-  Open: 25.6
-  Max: 25.6
-  Min: 24.95
-  Close: 24.95
-  Change: -0.45
-  LastBuy: 24.95
-  LastBuyVolume: 8
-  LastSell: 25.1
+  TradeVolume: 526054
+  Transaction: 416
+  TradeValue: 13089608
+  Open: 25.25
+  Max: 25.25
+  Min: 24.7
+  Close: 24.7
+  Change: -0.25
+  LastBuy: 24.7
+  LastBuyVolume: 5
+  LastSell: 24.75
   LastSellVolume: 6
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9958'
   StockName: 世紀鋼
-  TradeVolume: 9966552
-  Transaction: 9879
-  TradeValue: 1804511152
-  Open: 180.0
-  Max: 186.0
-  Min: 175.0
-  Close: 182.0
-  Change: 2.0
-  LastBuy: 181.5
-  LastBuyVolume: 54
-  LastSell: 182.5
-  LastSellVolume: 45
-  DateStr: '2023-12-07'
+  TradeVolume: 5615336
+  Transaction: 3979
+  TradeValue: 1026727125
+  Open: 183.0
+  Max: 185.0
+  Min: 180.0
+  Close: 182.5
+  Change: 0.5
+  LastBuy: 182.5
+  LastBuyVolume: 10
+  LastSell: 183.0
+  LastSellVolume: 61
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9960'
   StockName: 邁達康
-  TradeVolume: 22183
-  Transaction: 21
-  TradeValue: 603276
+  TradeVolume: 33073
+  Transaction: 26
+  TradeValue: 905250
   Open: 27.2
-  Max: 27.35
-  Min: 27.05
-  Close: 27.2
-  Change: 0.0
-  LastBuy: 27.1
+  Max: 27.7
+  Min: 27.2
+  Close: 27.35
+  Change: 0.15
+  LastBuy: 27.25
   LastBuyVolume: 1
-  LastSell: 27.25
+  LastSell: 27.4
   LastSellVolume: 1
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
   PBRatio: 0
 - stockId: '9962'
   StockName: 有益
-  TradeVolume: 115181
-  Transaction: 80
-  TradeValue: 2043122
+  TradeVolume: 54015
+  Transaction: 43
+  TradeValue: 956516
   Open: 17.8
   Max: 17.8
   Min: 17.65
-  Close: 17.75
+  Close: 17.7
   Change: -0.05
   LastBuy: 17.7
   LastBuyVolume: 4
   LastSell: 17.75
   LastSellVolume: 8
-  DateStr: '2023-12-07'
+  DateStr: '2023-12-08'
   Yield: 0
   IntYear: 0
   PERatio: 0
